@@ -1,0 +1,27 @@
+{
+  "name": "Atividade-Workflow",
+  "version": "1.0.0",
+  "description": "Curso certificação Bootstrap 2.0",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-html-minify": "0.0.14",
+    "gulp-sass": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jcleonis/atividade-workflow.git"
+  },
+  "author": "Jonatas Leonis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcleonis/atividade-workflow/issues"
+  },
+  "homepage": "https://github.com/jcleonis/atividade-workflow"
+}
